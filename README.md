@@ -19,9 +19,9 @@
 
 ## 📌 Мои проекты
 
-- 🎯 [Менеджер задач (Django)](https://github.com/annetmyshkina/python-project-52) — веб-приложение для управления задачами с аутентификацией и фильтрацией
-- 🔍 [Анализатор страниц (Flask)](https://github.com/annetmyshkina/python-project-83) — проверка доступности сайтов и парсинг HTML
-- 🔗 Backend для Bitrix24 — интеграции REST API, OAuth 2.0, автоматизация процессов
+- 🎯 [Менеджер задач (Django)](https://github.com/annetmyshkina/python-project-52) - веб-приложение для управления задачами с аутентификацией и фильтрацией
+- 🔍 [Анализатор страниц (Flask)](https://github.com/annetmyshkina/python-project-83) - проверка доступности сайтов и парсинг HTML
+- 🔗 [Личный кабинет клиентов (FastAPI)](https://www.bitrix24.ru/apps/app/agencypalax.lk/) - backend для Bitrix24 - интеграции REST API, OAuth 2.0, автоматизация процессов
 
 ## 📫 Связаться со мной
 
